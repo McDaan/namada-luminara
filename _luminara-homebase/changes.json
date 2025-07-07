@@ -81266,5 +81266,37 @@
                 "new_value": "2158641"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-07T17:22:16.591430+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": "max-02",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.max-02.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2158641",
+                "new_value": "2158806"
+            }
+        ]
     }
 ]
