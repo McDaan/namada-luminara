@@ -81524,5 +81524,28 @@
                 "new_value": "1.29.0"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-08T03:37:52.517217+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2162541",
+                "new_value": "2163215"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.interface.version",
+                "type": "modified",
+                "old_value": "1.28.3",
+                "new_value": "1.29.0"
+            }
+        ]
     }
 ]
