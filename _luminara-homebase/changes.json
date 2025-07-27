@@ -101342,5 +101342,46 @@
                 "new_value": "2930683"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-27T07:41:54.036149+00:00Z",
+        "changes": [
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "OriginStake",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2930683",
+                "new_value": "2931177"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "n/a"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.shield-crypto.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            }
+        ]
     }
 ]
