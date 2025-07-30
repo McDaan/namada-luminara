@@ -102480,5 +102480,73 @@
                 "new_value": "1.31.2"
             }
         ]
+    },
+    {
+        "timestamp": "2025-07-30T08:36:17.778911+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2374143",
+                "new_value": "2374450"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "2968673",
+                "new_value": "2968957"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "2968673",
+                "new_value": "2968952"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "2968673",
+                "new_value": "2968956"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            }
+        ]
     }
 ]
