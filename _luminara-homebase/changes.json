@@ -157541,5 +157541,19 @@
                 "new_value": "2942106"
             }
         ]
+    },
+    {
+        "timestamp": "2025-09-26T03:02:59.945028+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2942106",
+                "new_value": "2942668"
+            }
+        ]
     }
 ]
