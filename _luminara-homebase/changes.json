@@ -161599,5 +161599,82 @@
                 "new_value": "2994982"
             }
         ]
+    },
+    {
+        "timestamp": "2025-10-01T09:25:59.853381+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "2994982",
+                "new_value": "2995465"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Grand Valley.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "3746620",
+                "new_value": "0"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.service.masp.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.service.masp.version",
+                "type": "modified",
+                "old_value": "1.3.0",
+                "new_value": "n/a"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Grand Valley.service.masp.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "status",
+                "full_path": "namada.operator.Grand Valley.interface.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.Grand Valley.interface.version",
+                "type": "modified",
+                "old_value": "1.31.4",
+                "new_value": "n/a"
+            }
+        ]
     }
 ]
