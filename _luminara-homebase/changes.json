@@ -163110,5 +163110,55 @@
                 "new_value": "3008892"
             }
         ]
+    },
+    {
+        "timestamp": "2025-10-02T17:38:15.957811+00:00Z",
+        "changes": [
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Grand Valley.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "3763620",
+                "new_value": "3763785"
+            },
+            {
+                "team": "papadritta",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.papadritta.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "papadritta",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.papadritta.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "3763627",
+                "new_value": "3763785"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3008892",
+                "new_value": "3009102"
+            }
+        ]
     }
 ]
