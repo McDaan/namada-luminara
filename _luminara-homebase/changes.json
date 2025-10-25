@@ -271328,5 +271328,145 @@
                 "new_value": "3233936"
             }
         ]
+    },
+    {
+        "timestamp": "2025-10-25T08:45:06.562781+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3233936",
+                "new_value": "3234258"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Hadesguard.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4041208",
+                "new_value": "4041595"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Hadesguard.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "4041207",
+                "new_value": "4041594"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4041207",
+                "new_value": "4041594"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.shield-crypto.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "status",
+                "full_path": "namada.operator.shield-crypto.service.masp.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.shield-crypto.service.masp.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "1.4.7"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "4041227",
+                "new_value": "0"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Stake&Relax \ud83e\udda5",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Stake&Relax \ud83e\udda5.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "n/a"
+            }
+        ]
     }
 ]
