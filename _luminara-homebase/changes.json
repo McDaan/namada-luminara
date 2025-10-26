@@ -278069,5 +278069,145 @@
                 "new_value": "3249488"
             }
         ]
+    },
+    {
+        "timestamp": "2025-10-26T21:38:52.378116+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3249488",
+                "new_value": "3249737"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Nodes.Guru.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Nodes.Guru.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Heliax.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Heliax.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4060134",
+                "new_value": "4060448"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.5ElementsNodes.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "4060140",
+                "new_value": "4060454"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "5ElementsNodes",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.5ElementsNodes.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4060140",
+                "new_value": "4060454"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Hadesguard.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Hadesguard.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4060141",
+                "new_value": "4060454"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Palamar.service.indexer.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.Palamar.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "status",
+                "full_path": "namada.operator.Palamar.service.indexer.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "Palamar",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Palamar.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "0",
+                "new_value": "4060470"
+            }
+        ]
     }
 ]
