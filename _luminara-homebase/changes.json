@@ -281180,5 +281180,109 @@
                 "new_value": "3258306"
             }
         ]
+    },
+    {
+        "timestamp": "2025-10-27T19:19:06.924174+00:00Z",
+        "changes": [
+            {
+                "team": "MekongLabs",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.MekongLabs.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.MekongLabs.service.masp.version",
+                "type": "modified",
+                "old_value": "1.4.4",
+                "new_value": "1.4.7"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.masp.version",
+                "type": "modified",
+                "old_value": "1.4.4",
+                "new_value": "1.4.7"
+            },
+            {
+                "team": "EmberStake",
+                "service": "interface",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.interface.version",
+                "type": "modified",
+                "old_value": "1.31.4",
+                "new_value": "1.32.1"
+            },
+            {
+                "team": "EmberStake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "EmberStake",
+                "service": "masp",
+                "field": "version",
+                "full_path": "namada.operator.EmberStake.service.masp.version",
+                "type": "modified",
+                "old_value": "1.4.4",
+                "new_value": "1.4.7"
+            },
+            {
+                "team": "OriginStake",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.OriginStake.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "TuDudes",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.TuDudes.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "indexer",
+                "field": "version",
+                "full_path": "namada.operator.Hadesguard.service.indexer.version",
+                "type": "modified",
+                "old_value": "3.3.4",
+                "new_value": "4.1.0"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3258306",
+                "new_value": "3258804"
+            }
+        ]
     }
 ]
