@@ -285792,5 +285792,163 @@
                 "new_value": "3265710"
             }
         ]
+    },
+    {
+        "timestamp": "2025-10-28T12:50:59.489004+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3265710",
+                "new_value": "3266305"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4079456",
+                "new_value": "4080528"
+            },
+            {
+                "team": "TuDudes",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "TuDudes",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.TuDudes.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4078767",
+                "new_value": "4080416"
+            },
+            {
+                "team": "TuDudes",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.TuDudes.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4078767",
+                "new_value": "4080527"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.LoserBoy.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "n/a"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.LoserBoy.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "101.1.1",
+                "new_value": "n/a"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.rpc.status",
+                "type": "modified",
+                "old_value": "up",
+                "new_value": "down"
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4078767",
+                "new_value": "4080538"
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Heliax.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": false,
+                "new_value": true
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.16",
+                "new_value": "0.37.15"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Hadesguard.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4078767",
+                "new_value": "4080527"
+            },
+            {
+                "team": "Hadesguard",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Hadesguard.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
