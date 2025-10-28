@@ -285372,5 +285372,55 @@
                 "new_value": "sync_nok"
             }
         ]
+    },
+    {
+        "timestamp": "2025-10-28T10:47:23.564518+00:00Z",
+        "changes": [
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4078847",
+                "new_value": "4079357"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4079019",
+                "new_value": "4079108"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3265044",
+                "new_value": "3265330"
+            }
+        ]
     }
 ]
