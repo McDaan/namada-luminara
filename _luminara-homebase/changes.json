@@ -320952,5 +320952,55 @@
                 "new_value": "sync_lag"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-02T15:39:18.860924+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3317600",
+                "new_value": "3317877"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "4142554",
+                "new_value": "4143247"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.Heliax.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "0.37.16"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.Heliax.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            }
+        ]
     }
 ]
