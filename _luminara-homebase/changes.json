@@ -339896,5 +339896,37 @@
                 "new_value": false
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-05T09:27:34.691014+00:00Z",
+        "changes": [
+            {
+                "team": "CroutonDigital",
+                "service": "rpc",
+                "field": "is_up_to_date",
+                "full_path": "namada.operator.CroutonDigital.service.rpc.is_up_to_date",
+                "type": "modified",
+                "old_value": true,
+                "new_value": false
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.CroutonDigital.service.rpc.version",
+                "type": "modified",
+                "old_value": "0.37.15",
+                "new_value": "0.37.16"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3344722",
+                "new_value": "3345214"
+            }
+        ]
     }
 ]
