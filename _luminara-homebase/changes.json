@@ -351984,5 +351984,64 @@
                 "new_value": "3360668"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-06T22:42:50.751160+00:00Z",
+        "changes": [
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "version",
+                "full_path": "namada.operator.LoserBoy.service.rpc.version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "0.37.16"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "namada_version",
+                "full_path": "namada.operator.LoserBoy.service.rpc.namada_version",
+                "type": "modified",
+                "old_value": "n/a",
+                "new_value": "101.1.1"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "rpc",
+                "field": "status",
+                "full_path": "namada.operator.LoserBoy.service.rpc.status",
+                "type": "modified",
+                "old_value": "down",
+                "new_value": "up"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.indexer.latest_block_height",
+                "type": "modified",
+                "old_value": "4195477",
+                "new_value": "4195877"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "indexer",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.indexer.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3360668",
+                "new_value": "3360956"
+            }
+        ]
     }
 ]
