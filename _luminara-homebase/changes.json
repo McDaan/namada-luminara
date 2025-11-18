@@ -430517,5 +430517,127 @@
                 "new_value": "3476496"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-18T09:45:42.496413+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3476496",
+                "new_value": "3476715"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "sync_state",
+                "full_path": "namada.operator.Heliax.service.rpc.sync_state",
+                "type": "modified",
+                "old_value": "sync_nok",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Heliax",
+                "service": "rpc",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Heliax.service.rpc.latest_block_height",
+                "type": "modified",
+                "old_value": "4183082",
+                "new_value": "4337786"
+            },
+            {
+                "team": "itrocket",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.itrocket.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "itrocket",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.itrocket.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4337537",
+                "new_value": "4337742"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.MekongLabs.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.MekongLabs.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4337537",
+                "new_value": "4337742"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Grand Valley.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4337537",
+                "new_value": "4337742"
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.OriginStake.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4337537",
+                "new_value": "4337742"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_lag"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.LoserBoy.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4337537",
+                "new_value": "4337742"
+            }
+        ]
     }
 ]
