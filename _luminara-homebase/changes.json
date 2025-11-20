@@ -448974,5 +448974,28 @@
                 "new_value": "4365801"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-20T17:18:55.822436+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3499587",
+                "new_value": "3500072"
+            },
+            {
+                "team": "Heliax",
+                "service": "interface",
+                "field": "url",
+                "full_path": "namada.operator.Heliax.interface.url",
+                "type": "modified",
+                "old_value": "https://www.namadillo.app",
+                "new_value": "https://app.namada.net"
+            }
+        ]
     }
 ]
