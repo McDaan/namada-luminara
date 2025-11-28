@@ -495342,5 +495342,163 @@
                 "new_value": "3582456"
             }
         ]
+    },
+    {
+        "timestamp": "2025-11-28T21:39:49.814991+00:00Z",
+        "changes": [
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3582456",
+                "new_value": "3582716"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Citizen Web3.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "Citizen Web3",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Citizen Web3.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.CroutonDigital.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "CroutonDigital",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.CroutonDigital.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.StakeUp.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "StakeUp",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.StakeUp.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "deNodes",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.deNodes.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "deNodes",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.deNodes.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.L0vd.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "L0vd",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.L0vd.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            },
+            {
+                "team": "EmberStake",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.EmberStake.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4467188",
+                "new_value": "4467621"
+            },
+            {
+                "team": "EmberStake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.EmberStake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_lag",
+                "new_value": "sync_ok"
+            }
+        ]
     }
 ]
