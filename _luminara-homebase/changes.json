@@ -516350,5 +516350,118 @@
                 "new_value": "4516243"
             }
         ]
+    },
+    {
+        "timestamp": "2025-12-02T23:23:12.740228+00:00Z",
+        "changes": [
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.shield-crypto.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "shield-crypto",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.shield-crypto.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4516385",
+                "new_value": "4516390"
+            },
+            {
+                "team": "EmberStake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.EmberStake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "EmberStake",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.EmberStake.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4516385",
+                "new_value": "4516390"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "Nodes.Guru",
+                "service": "masp",
+                "field": "latest_block_height",
+                "full_path": "namada.operator.Nodes.Guru.service.masp.latest_block_height",
+                "type": "modified",
+                "old_value": "4516385",
+                "new_value": "4516390"
+            },
+            {
+                "team": "Grand Valley",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.Grand Valley.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "MekongLabs",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.MekongLabs.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "itrocket",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.itrocket.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "OriginStake",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.OriginStake.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": "LoserBoy",
+                "service": "masp",
+                "field": "sync_state",
+                "full_path": "namada.operator.LoserBoy.service.masp.sync_state",
+                "type": "modified",
+                "old_value": "sync_ok",
+                "new_value": "sync_nok"
+            },
+            {
+                "team": null,
+                "service": null,
+                "field": "housefire_reference_latest_block_height",
+                "full_path": "housefire_reference_latest_block_height",
+                "type": "modified",
+                "old_value": "3623550",
+                "new_value": "3623705"
+            }
+        ]
     }
 ]
