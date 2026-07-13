@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-07-13T01:05:00.130869+00:00Z",
-    "script_end_time": "2026-07-13T01:17:25.967785+00:00Z",
-    "reference_latest_block_height": "7273929",
+    "script_start_time": "2026-07-13T04:59:14.767094+00:00Z",
+    "script_end_time": "2026-07-13T05:11:25.221323+00:00Z",
+    "reference_latest_block_height": "7275981",
     "housefire_reference_latest_block_height": "4624720",
     "required_versions": {
         "interface": "1.28.2",
@@ -52,7 +52,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": false,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7273912",
+                            "latest_block_height": "7275965",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -143,7 +143,7 @@
                             "status": "up",
                             "version": "4.1.0",
                             "is_up_to_date": false,
-                            "latest_block_height": "7273928",
+                            "latest_block_height": "7275981",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -162,7 +162,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7273928",
+                            "latest_block_height": "7275981",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -200,7 +200,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": false,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7273929",
+                            "latest_block_height": "7275981",
                             "sync_state": "sync_ok"
                         }
                     ]
