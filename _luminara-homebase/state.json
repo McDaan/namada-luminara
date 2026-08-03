@@ -1,7 +1,7 @@
 {
-    "script_start_time": "2026-08-03T02:51:12.845215+00:00Z",
-    "script_end_time": "2026-08-03T03:02:41.742145+00:00Z",
-    "reference_latest_block_height": "7538724",
+    "script_start_time": "2026-08-03T06:23:34.180253+00:00Z",
+    "script_end_time": "2026-08-03T06:34:35.062120+00:00Z",
+    "reference_latest_block_height": "7540567",
     "housefire_reference_latest_block_height": "0",
     "required_versions": {
         "interface": "1.28.2",
@@ -52,7 +52,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": false,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7538702",
+                            "latest_block_height": "7540546",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -80,7 +80,7 @@
                             "status": "up",
                             "version": "4.1.3",
                             "is_up_to_date": false,
-                            "latest_block_height": "7538709",
+                            "latest_block_height": "7540553",
                             "sync_state": "sync_ok"
                         },
                         {
@@ -99,7 +99,7 @@
                             "version": "0.37.15",
                             "is_up_to_date": true,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7538709",
+                            "latest_block_height": "7540553",
                             "sync_state": "sync_ok"
                         }
                     ]
@@ -229,7 +229,7 @@
                             "version": "0.37.16",
                             "is_up_to_date": false,
                             "namada_version": "201.0.7",
-                            "latest_block_height": "7538724",
+                            "latest_block_height": "7540567",
                             "sync_state": "sync_ok"
                         }
                     ]
